@@ -1,5 +1,5 @@
 # Go Gin Example
-
+https://segmentfault.com/a/1190000013297683
 `gin` 的一个例子，包含许多有用特性
 
 ## 目录

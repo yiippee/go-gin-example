@@ -1,3 +1,6 @@
+
+可参考系列文章地址：https://segmentfault.com/a/1190000013297683
+
 # Go Gin Example
 
 `gin` 的一个例子，包含许多有用特性
